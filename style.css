@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(https://static.vecteezy.com/ti/fotos-gratis/p1/3334890-desktop-source-code-and-wallpaper-by-coding-and-programming-gratis-foto.jpg);
+}
+
+header{
+    text-align: center;
+    background-color: #131212;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.container{
+    background-color: white;
+    margin: 50px;
+    height: 400px;
+    width: 50%;
+    padding-bottom: 60px;
+}
+
+div.h2{
+    text-align: justify;
+    padding-left: 50px;
+    padding-top: 5px;
+}
+
+p{
+    font-size: 22px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.texto1{
+    display: flex;
+    text-align: justify;
+    justify-content: center;
+}
+
+.texto2{
+    display: flex;
+    text-align: justify;
+    justify-content: center;
+}
+
+.texto3{
+    display: flex;
+    text-align: justify;
+    justify-content: center;
+}
+
+footer{
+    background-color: #131212;
+    color: #ffffff;
+    text-align: center;
+}
